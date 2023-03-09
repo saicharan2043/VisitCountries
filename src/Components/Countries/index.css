@@ -1,0 +1,39 @@
+.list-visit {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  padding-left: 22px;
+  padding-right: 22px;
+  border: 1px solid #334155;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  background-color: #1f1f2f;
+}
+
+.country-name {
+  font-family: Roboto;
+  font-size: 18px;
+  color: #ffffff;
+  align-self: center;
+}
+
+.btn {
+  width: 60px;
+  height: 40px;
+  background-color: #3b82f6;
+  border-radius: 8px;
+  border-width: 0px;
+  font-family: Roboto;
+  font-size: 15px;
+  color: #ffffff;
+  font-weight: 500;
+  align-self: center;
+}
+
+.visited-text {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #94a3b8;
+}
